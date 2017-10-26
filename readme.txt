@@ -1,4 +1,4 @@
-Git is a  first version control system.
+Git is a  two version control system.
 Git is a free software distributed under the GPL.
 Git has a mutable index called stage
 
@@ -14,3 +14,4 @@ Creating a new branch as test two.
 test a new git merge;
 
 modify readme file.
+fix bug 101
