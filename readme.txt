@@ -15,4 +15,6 @@ test a new git merge;
 
 modify readme file.
 12345666666
-user A write one line.
+
+user B add one line and write
+
