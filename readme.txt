@@ -7,3 +7,5 @@ My stupid boss still prefers SVN.
 add oneline in this file.
 
 Creating a new branch is quick AND simple.
+
+Creating a new branch as test two.
